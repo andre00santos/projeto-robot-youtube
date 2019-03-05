@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/andre00santos/projeto-robot-youtube/issues"
   },
-  "homepage": "https://github.com/andre00santos/projeto-robot-youtube#readme"
+  "homepage": "https://github.com/andre00santos/projeto-robot-youtube#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
